@@ -1,0 +1,1 @@
+sap.ui.define(["dxc/fin/ar/rajvansh01/controller/BaseController"],function(n){"use strict";return n.extend("dxc.fin.ar.rajvansh01.controller.App",{onInit:function(){console.log("Hey folks!! the App Controller is ready Now")}})});
